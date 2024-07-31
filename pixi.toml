@@ -4,7 +4,7 @@ version = "0.1.0"
 description = "Add a short description here"
 authors = ["Leonardo Pierre <leonardo.m.pierre@gmail.com>"]
 channels = ["conda-forge"]
-platforms = ["win-64"]
+platforms = ["win-64", "linux-64"]
 
 [tasks]
 example = "python analysis.py"
